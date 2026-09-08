@@ -1,0 +1,6 @@
+{
+  "name": "CryptoGuía",
+  "description": "Una guía educativa y enciclopedia digital para descubrir cómo funcionan las criptomonedas, blockchain y las tecnologías descentralizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
